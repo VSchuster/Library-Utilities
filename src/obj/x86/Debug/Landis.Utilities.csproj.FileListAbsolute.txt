@@ -1,0 +1,4 @@
+C:\Users\avala\Desktop\Landis stuff\Library-Utilities\src\bin\Debug\Landis.Utilities.dll
+C:\Users\avala\Desktop\Landis stuff\Library-Utilities\src\bin\Debug\Landis.Utilities.pdb
+C:\Users\avala\Desktop\Landis stuff\Library-Utilities\src\obj\x86\Debug\Landis.Utilities.dll
+C:\Users\avala\Desktop\Landis stuff\Library-Utilities\src\obj\x86\Debug\Landis.Utilities.pdb
